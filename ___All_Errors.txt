@@ -1,0 +1,40 @@
+CorrelationId: 0dc8ed19-60f2-4765-99b5-14bf50608795
+UTC DateTime: 9/28/2021 4:36:30 PM
+
+The following files/folders have not been downloaded
+1. startupql/node_modules/lodash-es
+2. startupql/node_modules/loose-envify
+3. startupql/node_modules/ms
+4. startupql/node_modules/object.assign
+5. startupql/node_modules/object-assign
+6. startupql/node_modules/object-inspect
+7. startupql/node_modules/object-is
+8. startupql/node_modules/object-keys
+9. startupql/node_modules/popper.js
+10. startupql/node_modules/property-expr
+11. startupql/node_modules/prop-types
+12. startupql/node_modules/react
+13. startupql/node_modules/react-dom
+14. startupql/node_modules/react-fast-compare
+15. startupql/node_modules/react-is
+16. startupql/node_modules/react-lifecycles-compat
+17. startupql/node_modules/react-popper
+18. startupql/node_modules/reactstrap
+19. startupql/node_modules/react-transition-group
+20. startupql/node_modules/regenerator-runtime
+21. startupql/node_modules/regexp.prototype.flags
+22. startupql/node_modules/scheduler
+23. startupql/node_modules/string.prototype.trimend
+24. startupql/node_modules/string.prototype.trimleft
+25. startupql/node_modules/string.prototype.trimright
+26. startupql/node_modules/string.prototype.trimstart
+27. startupql/node_modules/synchronous-promise
+28. startupql/node_modules/tiny-warning
+29. startupql/node_modules/toposort
+30. startupql/node_modules/tslib
+31. startupql/node_modules/typed-styles
+32. startupql/node_modules/warning
+33. startupql/node_modules/yup
+34. startupql/start_react
+35. startupql/startupql
+36. startupql/users
